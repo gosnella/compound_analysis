@@ -1,2 +1,2 @@
-# compound_analysis
-Codes to process and analyse herbicideal data using ML methods
+# Herbicide performance prediction using Gaussian processes and Random forest
+Code to process and analyse herbicidal testing data.
